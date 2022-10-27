@@ -33,5 +33,7 @@
         <property name="show_sql">true</property>
        
         <mapping class="models.Users"/>
+        <mapping class="models.Category"/>
+        <mapping class="models.Product"/>
     </session-factory>
 </hibernate-configuration>
